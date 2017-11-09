@@ -1,0 +1,10 @@
+# Created by Octave 4.0.0, Tue Nov 07 11:10:37 2017 CST <ucc@cafe>
+# name: A
+# type: matrix
+# rows: 3
+# columns: 2
+ 1 2
+ 3 4
+ 5 6
+
+
